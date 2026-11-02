@@ -1,0 +1,6 @@
+{
+  "name": "Flags War Arena",
+  "description": "Mobile-friendly 2D physics battle arena where country flags bounce, avoid the rotating danger zone and spinning hazard bars, and fight to be the last survivor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
